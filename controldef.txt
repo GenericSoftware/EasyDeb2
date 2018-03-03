@@ -1,0 +1,5 @@
+Package: Helloworld
+Version: 1
+Architecture: all 
+Maintainer: John Doe
+Description: This is a hello world script :/
