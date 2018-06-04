@@ -3,7 +3,7 @@ read -p "Pkg-name:" pkgname
 mkdir $pkgname
 mkdir $pkgname/DEBIAN
 
-cp controldef.txt control
+cp /ed2/controldef.txt control
 mv control $pkgname/DEBIAN/control
 
 touch $pkgname/DEBIAN/postinst

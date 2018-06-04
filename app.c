@@ -5,12 +5,12 @@ int main () {
 	int c;
 	scanf("%i",&c);
 	if (c == 1) {
-		system("./create_pkg.sh");
+		system("sh /ed2/create_pkg.sh");
 	}
 	if (c == 2) {
-		system("./blankproject.sh");
+		system("sh /ed2/blankproject.sh");
 	}
 	if (c == 3) {
-		system("./create_and_install.sh");
+		system("sh /ed2/create_and_install.sh");
 	}
 }
