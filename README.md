@@ -3,11 +3,11 @@ This is a program for Ubuntu, Debian, or any distro based on Debian or Ubuntu th
 ## Note:
 This project doesn't create apps, it creates installers for apps, on Windows, this would be similar to a `.msi` or `.exe` installer creator.
 ## Installation:
-* In a terminal, `git clone https://github.com/SomethingGeneric/CreatepkgProject.git`
+* Clone
 * Open that folder in terminal.
 * Done!
 ## Usage:
-* `easydeb`
+* `ed2`
 ## Help:
 * Q: I installed, but it says that the command `easydeb2` can't be found!
   * This is usually caused by a bug in Bash. Please restart your terminal, but if that doesn't solve it, please open an issue.
